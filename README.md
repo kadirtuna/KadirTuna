@@ -15,5 +15,3 @@ Feel free to contact me about my specializations that I claim on my social caree
 [![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kadirbey832832@gmail.com)](mailto:kadirbey832832@gmail.com)
 [![Instagram Badge]((https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kadir.tuna)
 
-   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirtuna)](https://github.com/anuraghazra/github-readme-stats)
