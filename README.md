@@ -14,8 +14,6 @@
   - 📍 Denizli, Turkey
   <br>
   - 🌱 I’m currently learning Django, Pyqt5 and some AI tools of Pytorch, Tensorflow for my thesis.
-  <br>
- 
   I love to work with Back-End technologies with soluting some hard problems and thinking what's going on behind, so you'll find more projects about back-end technologies when you look at my profile. Please don't be hesitate to ask me a question about them. I'm going to also be glad for that😁 
 </p>
 
