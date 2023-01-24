@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kadir Tuna</h1>  
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Kadir+TUNA+🙋‍♂+;&center=true&size=28&duration=3600&pause=500&color=00f900">
+  </a>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirtuna&label=Profile%20views&color=00ad0c&style=flat" alt="kadirtuna" />
 
@@ -19,6 +23,14 @@ Feel free to contact me about my specializations that I claim on my social caree
 <a href="https://instagram.com/kadir.tuna" target="blank"><img align="center" src="images/instagram.svg" alt="kadir.tuna" height="30" width="40" /></a>
 </p>
 
+<h2 align="center">🔥 Languages & Tools 🔥</h2>
+<p align="center">
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="images/java.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="images/html.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="images/realm.svg" alt="realm" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="images/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
+</p>
 
    
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirtuna&show_icons=true&theme=dark&title_color=00f900&bg_color=000000&locale=en" alt="kadirtuna" /></p>
