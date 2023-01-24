@@ -10,14 +10,15 @@
    <br>
   - 👀 I’m interested in Full-Stack Development as well mainly Back-End Development
     <br>
-<br>🌱I’m currently learning Django, Pyqt5 and some AI tools of Pytorch, Tensorflow for my thesis.
-</br>
-<br>I love to work with Back-End technologies with soluting some hard problems and thinking what's going on behind, so you'll find more projects about back-end technologies when you look at my profile. Please don't be hesitate to ask me a question about them. I'm going to also be glad for that😁 </br> 
+  - 📍 Denizli, Turkey
+
+<br>- 🌱 I’m currently learning Django, Pyqt5 and some AI tools of Pytorch, Tensorflow for my thesis.
+<br>I love to work with Back-End technologies with soluting some hard problems and thinking what's going on behind, so you'll find more projects about back-end technologies when you look at my profile. Please don't be hesitate to ask me a question about them. I'm going to also be glad for that😁 
 </p>
 
 <h2 align="center">🤗 You can reach out 🤗 </h2>
 
-<p align="center">Feel free to contact me about my specializations that I claim on my social career accounts. I will do my best to help as much as I can :) </p>
+<p align="center">Feel free to contact me about my specializations that I claim on my social career accounts. I will do my best to help you :) </p>
 
 </p>
 <h2 align="center">🔗 Connect with me 🔗</h2>
