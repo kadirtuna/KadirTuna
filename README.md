@@ -40,7 +40,8 @@
 </p>
 
    
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirtuna&show_icons=true&theme=dark&title_color=00f900&bg_color=000000&locale=en" alt="kadirtuna" />
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirtuna&show_icons=true&theme=dark&title_color=00f900&bg_color=000000&locale=en" alt="kadirtuna" />
 <a href="https://github.com/kadirtuna">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirtuna&layout=compact&theme=great-gatsby" />
 </a></p>
