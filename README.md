@@ -33,8 +33,8 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="images/java.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="images/html.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="images/realm.svg" alt="realm" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="images/firebase.svg" alt="firebase" width="40" height="40"/> </a> 
+</p>
+<a href="https:/python.org" target="_blank" rel="noreferrer"> <img src="images/python.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
    
