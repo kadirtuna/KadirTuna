@@ -43,11 +43,18 @@
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="images/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
-<h3 align ="center">The Backend Tools that I use</h3>
+<h3 align ="center">The Back-End Technologies that I use</h3>
 <p align="center">
 <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="images/netcore.svg" alt="netcore" width="40" height="40"/> </a> 
 <a href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-7.0" target="_blank" rel="noreferrer"> <img src="images/aspnetcore.svg" alt="aspnetcore" width="40" height="40"/> </a> 
 </p>
+
+<h3 align ="center">The Front-End Technologies that I use</h3>
+<p align="center">
+<a href="https://pypi.org/project/PyQt5/" target="_blank" rel="noreferrer"> <img src="images/qt.svg" alt="qt5" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> <img src="images/blazor.svg" alt="blazor" width="40" height="40"/> </a> 
+</p>
+
 
    
 <p align="center">&nbsp;
