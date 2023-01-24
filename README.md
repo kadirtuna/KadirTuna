@@ -46,7 +46,7 @@
 <h3 align ="center">The Backend Tools that I use</h3>
 <p align="center">
 <a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="images/netcore.svg" alt="netcore" width="40" height="40"/> </a> 
-<a href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-7.0" target="_blank" rel="noreferrer"> <img src="images/python.svg" alt="aspnetcore" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-7.0" target="_blank" rel="noreferrer"> <img src="images/aspnetcore.svg" alt="aspnetcore" width="40" height="40"/> </a> 
 </p>
 
    
