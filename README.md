@@ -21,4 +21,4 @@ Feel free to contact me about my specializations that I claim on my social caree
 
 
    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadirtuna)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirtuna&show_icons=true&theme=dark&title_color=00f900&bg_color=000000&locale=en" alt="kadirtuna" /></p>
