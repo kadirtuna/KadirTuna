@@ -55,7 +55,18 @@
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> <img src="images/blazor.svg" alt="blazor" width="40" height="40"/> </a> 
 </p>
 
-
+<h3 align ="center">The Auxiliary Tools</h3>
+<p align="center">
+<a href="https://learn.microsoft.com/en-us/ef/" target="_blank" rel="noreferrer"> <img src="images/entityframework.svg" alt="entityframework" width="40" height="40"/> </a> 
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> <img src="images/restapi.svg" alt="restapi" width="40" height="40"/> </a> 
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="images/seleniumframework.svg" alt="seleniumframework" width="40" height="40"/> </a> 
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="images/postmanapi.svg" alt="postmanapi" width="40" height="40"/> </a> 
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="images/swaggerapi.svg" alt="swaggerapi" width="40" height="40"/> </a> 
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> <img src="images/blazor.svg" alt="blazor" width="40" height="40"/> </a> 
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="images/jwttoken.svg" alt="jwttoken" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="images/git.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="images/github.svg" alt="github" width="40" height="40"/> </a> 
+</p>
    
 <p align="center">&nbsp;
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kadirtuna&show_icons=true&theme=dark&title_color=00f900&bg_color=000000&locale=en" alt="kadirtuna" />
