@@ -15,9 +15,9 @@
 <br>I love to work with Back-End technologies with soluting some hard problems and thinking what's going on behind, so you'll find more projects about back-end technologies when you look at my profile. Please don't be hesitate to ask me a question about them. I'm going to also be glad for that😁 </br> 
 </p>
 
-## 🤗 You can reach out
+<h2 align="center">🤗 You can reach out 🤗 </h2>
 
-Feel free to contact me about my specializations that I claim on my social career accounts. I will try to help as much as I can <3
+<p align="center">Feel free to contact me about my specializations that I claim on my social career accounts. I will do my best to help as much as I can :) </p>
 
 </p>
 <h2 align="center">🔗 Connect with me 🔗</h2>
