@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kadirtuna&label=Profile%20views&color=00ad0c&style=flat" alt="kadirtuna" />
 
 <p align="center">
-  - 📚 Hello, welcome to my GitHub profile. I'm a senior Electrical-Electronics Engineering and Computer Engineering(Double Major) student at Pamukkale University and would like to be Back-End Developer.
+  - 📚 I'm a senior Electrical-Electronics Engineering and Computer Engineering(Double Major) undergraduate student at Pamukkale University as well the first year at Web Design and Coding Associate Degree in Anadolu University.
   <br>
   - 👀 I’m interested in Full-Stack Development as well mainly Back-End Development
   <br>
