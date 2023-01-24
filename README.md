@@ -18,18 +18,6 @@
   <br>I love to work with Back-End technologies with soluting some hard problems and thinking what's going on behind, so you'll find more projects about back-end technologies when you look at my profile. Please don't be hesitate to ask me a question about them. I'm going to also be glad for that😁 
 </p>
 
-<h2 align="center">🤗 You can reach out 🤗 </h2>
-
-<p align="center">Feel free to contact me about my specializations that I claim on my social career accounts. I will do my best to help you :) </p>
-
-</p>
-<h2 align="center">🔗 Connect with me 🔗</h2>
-<p align="center">
-<a href="https://linkedin.com/in/kadirtuna20" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="kadirtuna20" height="30" width="40" /></a>
-<a href="mailto: kadirbey832832@gmail.com" target="blankkadirbey832832@gmail.com"><img align="center" src="images/gmail.svg" alt="kadirbey832832" height="30" width="40" /></a>
-<a href="https://instagram.com/kadir.tuna" target="blank"><img align="center" src="images/instagram.svg" alt="kadir.tuna" height="30" width="40" /></a>
-</p>
-
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <h3 align ="center">The Programming Languages that I use</h3>
 <p align="center">
@@ -73,3 +61,15 @@
 <a href="https://github.com/kadirtuna">
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirtuna&layout=compact&theme=great-gatsby" />
 </a></p>
+
+<h2 align="center">🤗 You can reach out 🤗 </h2>
+
+<p align="center">Feel free to contact me about my specializations that I claim on my social career accounts. I will do my best to help you :) </p>
+
+</p>
+<h2 align="center">🔗 Connect with me 🔗</h2>
+<p align="center">
+<a href="https://linkedin.com/in/kadirtuna20" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="kadirtuna20" height="30" width="40" /></a>
+<a href="mailto: kadirbey832832@gmail.com" target="blankkadirbey832832@gmail.com"><img align="center" src="images/gmail.svg" alt="kadirbey832832" height="30" width="40" /></a>
+<a href="https://instagram.com/kadir.tuna" target="blank"><img align="center" src="images/instagram.svg" alt="kadir.tuna" height="30" width="40" /></a>
+</p>
