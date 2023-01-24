@@ -11,9 +11,13 @@
 
 Feel free to contact me about my specializations that I claim on my social career accounts. I will try to help as much as I can <3
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirtuna/)
-[![Mail Badge](https://img.shields.io/badge/email-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kadirbey832832@gmail.com)](mailto:kadirbey832832@gmail.com)
-[![Instagram Badge]((https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kadir.tuna)]
+</p>
+<h2 align="center">🔗 Connect with me 🔗</h2>
+<p align="center">
+<a href="https://linkedin.com/in/kadirtuna20" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="kadirtuna20" height="30" width="40" /></a>
+<a href="mailto: kadirbey832832@gmail.com" target="blankkadirbey832832@gmail.com"><img align="center" src="images/gmail.svg" alt="kadirbey832832" height="30" width="40" /></a>
+<a href="https://instagram.com/kadir.tuna" target="blank"><img align="center" src="images/instagram.svg" alt="kadir.tuna" height="30" width="40" /></a>
+</p>
 
 
    
