@@ -64,7 +64,7 @@
 
 <h2 align="center">🤗 You can reach out 🤗 </h2>
 
-<p align="center">Feel free to contact me about my specializations that I claim on my social career accounts. I will do my best to help you :) </p>
+<p align="center">Feel free to contact me about my specializations that I claim on my social career accounts. I will do my best to help you 😊 </p>
 
 </p>
 <h2 align="center">🔗 Connect with me 🔗</h2>
