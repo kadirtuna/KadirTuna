@@ -38,7 +38,7 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="images/c.svg" alt="c" width="40" height="40"/> </a>
 <a href="https:/python.org" target="_blank" rel="noreferrer"> <img src="images/python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="images/csharp.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="images/python.svg" alt="matlab" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="images/matlab.svg" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://octave.org/" target="_blank" rel="noreferrer"> <img src="images/octave.svg" alt="octave" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="images/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
