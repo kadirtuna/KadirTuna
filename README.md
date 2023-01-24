@@ -31,8 +31,8 @@
 </p>
 
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
+<h3 align ="center">The Programming Languages that I use</h3>
 <p align="center">
-<h3 align ="center">The Programming Language</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="images/html.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="images/c.svg" alt="c" width="40" height="40"/> </a>
@@ -41,6 +41,12 @@
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="images/matlab.svg" alt="matlab" width="40" height="40"/> </a> 
 <a href="https://octave.org/" target="_blank" rel="noreferrer"> <img src="images/octave.svg" alt="octave" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="images/javascript.svg" alt="javascript" width="40" height="40"/> </a> 
+</p>
+
+<h3 align ="center">The Backend Tools that I use</h3>
+<p align="center">
+<a href="https://dotnet.microsoft.com/en-us/download" target="_blank" rel="noreferrer"> <img src="images/netcore.svg" alt="netcore" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-7.0" target="_blank" rel="noreferrer"> <img src="images/aspnetcore.svg" alt="aspnetcore" width="40" height="40"/> </a> 
 </p>
 
    
