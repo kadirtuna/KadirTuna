@@ -32,7 +32,7 @@
 
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <p align="center">
-<h3>The Programming Language</h3>
+<h3 align ="center">The Programming Language</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="images/html.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="images/c.svg" alt="c" width="40" height="40"/> </a>
