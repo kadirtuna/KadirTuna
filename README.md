@@ -6,14 +6,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kadirtuna&label=Profile%20views&color=00ad0c&style=flat" alt="kadirtuna" />
 
-<p align="center">- 📚 Hello, welcome to my GitHub profile. I'm a senior Electrical-Electronics Engineering and Computer Engineering(Double Major) student at Pamukkale University and would like to be Back-End Developer.
-   <br>
+<p align="center">
+  - 📚 I'm a senior Electrical-Electronics Engineering and Computer Engineering(Double Major) undergraduate student at Pamukkale University as well the first year at Web Design and Coding Associate Degree in Anadolu University.
+  <br>
   - 👀 I’m interested in Full-Stack Development as well mainly Back-End Development
-    <br>
+  <br>
   - 📍 Denizli, Turkey
-
-<br>- 🌱 I’m currently learning Django, Pyqt5 and some AI tools of Pytorch, Tensorflow for my thesis.
-<br>I love to work with Back-End technologies with soluting some hard problems and thinking what's going on behind, so you'll find more projects about back-end technologies when you look at my profile. Please don't be hesitate to ask me a question about them. I'm going to also be glad for that😁 
+  <br>
+  <br>
+  - 🌱 To dive into about myself, I’m currently learning Django, Pyqt5 and some AI tools of Pytorch, Tensorflow for my thesis.
+  <br>I love to work with Back-End technologies with soluting some hard problems and thinking what's going on behind, so you'll find more projects about back-end technologies when you look at my profile. Please don't be hesitate to ask me a question about them. I'm going to also be glad for that😁 
 </p>
 
 <h2 align="center">🤗 You can reach out 🤗 </h2>
@@ -34,7 +36,12 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="images/html.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="images/css.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https:/python.org" target="_blank" rel="noreferrer"> <img src="images/python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="images/csharp.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
    
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadirtuna&show_icons=true&theme=dark&title_color=00f900&bg_color=000000&locale=en" alt="kadirtuna" /></p>
+<p align="center">&nbsp;
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kadirtuna&show_icons=true&theme=dark&title_color=00f900&bg_color=000000&locale=en" alt="kadirtuna" />
+<a href="https://github.com/kadirtuna">
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirtuna&layout=compact&theme=great-gatsby" />
+</a></p>
