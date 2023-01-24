@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirtuna&label=Profile%20views&color=00ad0c&style=flat" alt="kadirtuna" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kadirtuna&label=Profile%20views&color=00ad0c&style=flat" alt="kadirtuna" />
 
 <p>Hello, welcome to my GitHub profile. I'm a senior Electrical-Electronics Engineering and Computer Engineering(Double Major) student at Pamukkale University and would like to be Back-End Developer. </p>
  
