@@ -46,7 +46,7 @@
 
 <h3 align ="center">The Databases</h3>
 <p align="center">
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="images/mssql.svg" alt="mssql" width="40" height="40"/> </a> 
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> <img src="images/mssql2.svg" alt="mssql" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="images/postresql.svg" alt="postresql" width="40" height="40"/> </a> 
 </p>
 
