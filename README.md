@@ -59,7 +59,8 @@
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="images/swaggerapi.svg" alt="swaggerapi" width="40" height="40"/> </a> 
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="images/jwttoken.svg" alt="jwttoken" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="images/git.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="images/github.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="images/github.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://pypi.org/project/opencv-python/" target="_blank" rel="noreferrer"> <img src="images/opencv.svg" alt="github" width="40" height="40"/> </a> 
 </p>
    
 <p align="center">&nbsp;
