@@ -74,7 +74,7 @@
 <p align="center">Feel free to contact me about my specializations that I claim on my social career accounts. I will do my best to help you 😊 </p>
 
 </p>
-<h2 align="center">🔗 Contact me🔗</h2>
+<h2 align="center">🔗Contact me🔗</h2>
 <p align="center">
 <a href="https://linkedin.com/in/kadirtuna20" target="blank"><img align="center" src="images/linked-in-alt.svg" alt="kadirtuna20" height="30" width="40" /></a>
 <a href="mailto: kadirbey832832@gmail.com" target="blankkadirbey832832@gmail.com"><img align="center" src="images/gmail.svg" alt="kadirbey832832" height="30" width="40" /></a>
