@@ -42,6 +42,7 @@
 <p align="center">
 <a href="https://pypi.org/project/PyQt5/" target="_blank" rel="noreferrer"> <img src="images/qt.svg" alt="qt5" width="40" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> <img src="images/blazor.svg" alt="blazor" width="40" height="40"/> </a> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="images/react.svg" alt="blazor" width="40" height="40"/> </a> 
 </p>
 
 <h3 align ="center">The Databases</h3>
