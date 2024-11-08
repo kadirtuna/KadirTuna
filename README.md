@@ -7,11 +7,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kadirtuna&label=Profile%20views&color=00ad0c&style=flat" alt="kadirtuna" />
 
 <p align="center">
-  - 📚 I'm a senior Electrical-Electronics Engineering and Computer Engineering(Double Major) undergraduate student at Pamukkale University as well the first year at Web Design and Coding Associate Degree in Anadolu University.
+  - 📚 I'm a master degree student at Computer Engineering department in Gebze Technical University. My bachelor degrees are Electrical-Electronics Engineering(3.21 GPA / 4) and Computer Engineering(Double Major - 3.58 GPA / 4) at Pamukkale University. Also completed one year Erasmus Studentship(8.47 GPA /10) at Computer Science department in Rezekne Technologies Academy - Latvia.
   <br>
-  - 👀 I’m interested in Full-Stack Development as well mainly Back-End Development
+  - 👀 I’m interested in Back-End Development as well as AI Engineering.
   <br>
-  - 📍 Denizli, Turkey
+  - 📍 Kocaeli, Turkey
   <br>
   <br>
   - 🌱 To dive into about myself, I’m currently learning Django, Pyqt5 and some AI tools of Pytorch, Tensorflow for my thesis.
