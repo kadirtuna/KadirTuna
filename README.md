@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kadirtuna&label=Profile%20views&color=00ad0c&style=flat" alt="kadirtuna" />
 
 <p align="center">
-  - 📚 I'm a master degree student at Computer Engineering department in Gebze Technical University with current GPA 3.83/4. My bachelor degrees are Electrical-Electronics Engineering(3.21/4 GPA) and Computer Engineering(Double Major - 3.58/4 GPA) at Pamukkale University. Also completed one year Erasmus Studentship(8.47/10 GPA) at Computer Science department in Rezekne Technologies Academy - Latvia.
+  - 📚 I'm a master degree student at Computer Engineering department in Gebze Technical University (current GPA 3.83/4). My bachelor degrees are Electrical-Electronics Engineering(3.21/4 GPA) and Computer Engineering(Double Major - 3.58/4 GPA) at Pamukkale University. Also completed one year Erasmus Studentship(8.47/10 GPA) at Computer Science department in Rezekne Technologies Academy - Latvia.
   <br>
   - 👀 I’m interested in Back-End Development as well as AI Engineering.
   <br>
